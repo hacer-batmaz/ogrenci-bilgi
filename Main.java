@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Ogrenci[] ogrenciler = {
                 new Ogrenci(null,null,0.0,"104",1973),
-                new Ogrenci("Gökhan","Bilgisayar Müh",7.0,"104",1985),
+                new Ogrenci("Gökhan","Bilgisayar Müh",0.0,"104",1985),
                 new Ogrenci("Ayşe","Makine Müh",0.0,"104",1985),
                 new Ogrenci("Elif","Elektrik-Elektronik Müh",1.98,"104",2020)
         };
